@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "liam": {
+      "command": "ruby",
+      "args": ["/absolute/path/to/mcp_liam.rb"],
+      "env": {
+        "SCHEMA_PATH": "/absolute/path/to/schema.json"
+      }
+    }
+  }
+}
